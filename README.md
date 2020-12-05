@@ -1,7 +1,7 @@
 # Email-Sorter-GUI
 Email Sorter GUI Version
 
-##Problems
+## Problems
 - Very slow fetching emails and moving to trash
 - Need to include a settings function
 - Going to the next page and previous page on the inbox sometime glitches 
